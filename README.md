@@ -1,0 +1,1 @@
+# snowflake-stage-manager-app
