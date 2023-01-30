@@ -7,4 +7,4 @@ Using this app you can:
 * Delete files in stages
 * Upload files to stages
 
-_It is currently not possible to delete stages using the app_
+_Note: It is currently not possible to delete stages using the app._
